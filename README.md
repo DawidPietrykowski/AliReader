@@ -1,0 +1,1 @@
+Python script to convert html pages of Aliexpress "My Orders" into xml spreadsheet. Input html files should be indexed as Ali1.html, Ali2.html, etc.
